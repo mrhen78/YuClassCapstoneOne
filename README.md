@@ -1,1 +1,1 @@
-# YuClassCapstoneOne--an HTML only site that capstones what I've learned so far in my udemy course. Not a reflection of what I currently know, but rather a reflection of what I am currently re-studying.
+# YuClassCapstoneOne--an HTML only site that sums what what I've learned so far in my Udemy course. Not a reflection of what I currently know, but rather a reflection of what I am currently re-studying.
